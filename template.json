@@ -47,8 +47,8 @@
             },
             "human_skills": {
                 "skills": {
-                    "accounting": {
-                        "label": "Accounting",
+                    "art": {
+                        "label": "Art",
                         "proficiency": 10,
                         "failure": false
                     },
