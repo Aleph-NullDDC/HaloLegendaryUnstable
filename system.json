@@ -104,8 +104,11 @@
       "flags": {}
     }
   ],
+  "relationships": {}, 
+  "socket": false,
   "manifest": "https://github.com/Aleph-NullDDC/HaloLegendary/raw/master/system.json",
   "download": "https://github.com/Aleph-NullDDC/HaloLegendary/archive/refs/heads/master.zip",
+  "protected": false,
   "gridDistance": 1,
   "gridUnits": "m",
   "primaryTokenAttribute": "health",
