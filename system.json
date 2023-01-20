@@ -105,7 +105,7 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/Aleph-NullDDC/HaloLegendary/raw/master/system.json",
+  "manifest": "https://raw.githubusercontent.com/Aleph-NullDDC/HaloLegendary/master/system.json",
   "download": "https://github.com/Aleph-NullDDC/HaloLegendary/archive/refs/heads/master.zip",
   "gridDistance": 1,
   "gridUnits": "m",
